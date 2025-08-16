@@ -1,4 +1,10 @@
 streamlit
-pip install google-api-python-client
+streamlit
+pandas
+numpy
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 isodate
 testblob
